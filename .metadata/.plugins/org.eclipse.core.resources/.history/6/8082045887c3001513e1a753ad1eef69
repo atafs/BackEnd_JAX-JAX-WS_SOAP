@@ -1,0 +1,17 @@
+package pt.americolib;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ProductCatalog {
+	
+	//METHOD
+	private List<String> getProductCategories() {
+		List<String> categories = new ArrayList<String>();
+		categories.add("Books"); 
+		categories.add("Musics"); 
+		categories.add("Movies"); 
+		return categories;
+	}
+
+}

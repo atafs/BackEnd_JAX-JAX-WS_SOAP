@@ -1,0 +1,7 @@
+//WSDL = Web Services Description Language (XML format)
+
+// GeoIPService: enables you to easily look up countries by IP address / Context
+http://webservicex.com/ws/WSDetails.aspx?CATID=12&WSID=64
+
+//WSDL Schema Location
+http://www.webservicex.net/geoipservice.asmx?WSDL

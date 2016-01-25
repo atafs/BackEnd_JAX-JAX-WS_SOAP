@@ -1,0 +1,20 @@
+package pt.americolib_soap;
+
+import net.webservicex.GeoIPService;
+
+public class IPLocationFinder {
+	
+	//MAIN
+	public static void main(String[] args) {
+		
+		//SEI: Service Endpoint Interface
+		if (args.length != 1) {
+			System.out.println("You need to pass an IP ADDRESS!!");
+		} else {
+			String ipAddress = args[0];
+			GeoIPService ipService = new GeoIPService();
+			ipService.getCountrName(ipAddress);
+		}
+	}
+
+}

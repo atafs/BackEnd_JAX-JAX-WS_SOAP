@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.webservicex.GeoIPService"/>
+<fullyQualifiedTypeName name="net.webservicex.GeoIPServiceSoap"/>
+<fullyQualifiedTypeName name="net.webservicex.GeoIP"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.eclipse.persistence.internal.jpa.metadata.structures.ArrayAccessor"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="pt.americolib.business.ProductServiceImpl"/>
+</qualifiedTypeNameHistroy>

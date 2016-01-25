@@ -1,0 +1,17 @@
+package pt.americolib_soap;
+
+public class IPLocationFinder {
+	
+	//MAIN
+	public static void main(String[] args) {
+		
+		//
+		if (args.length != 1) {
+			System.out.println("You need to pass an IP ADDRESS!!");
+		} else {
+			String ipAddress = args[0];
+			stub.getCountrName(ipAddress);
+		}
+	}
+
+}

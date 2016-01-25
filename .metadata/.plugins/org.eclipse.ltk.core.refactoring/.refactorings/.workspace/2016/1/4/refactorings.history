@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project_002_SOAP_testmart&apos; to &apos;Project_002_SOAP_server_testmart&apos;" description="Rename resource &apos;Project_002_SOAP_testmart&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Project_002_SOAP_testmart" name="Project_002_SOAP_server_testmart" stamp="1453743145603" updateReferences="true"/>
+</session>

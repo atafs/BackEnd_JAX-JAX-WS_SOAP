@@ -1,0 +1,10 @@
+package pt.americolib_soap;
+
+public class IPLocationFinder {
+	
+	//MAIN
+	public static void main(String[] args) {
+		
+	}
+
+}

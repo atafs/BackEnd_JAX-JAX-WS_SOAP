@@ -1,0 +1,21 @@
+package pt.americolib;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.jws.WebService;
+
+@WebService
+public class ProductCatalog {
+	
+	//METHOD
+	@WebMethod
+	public List<String> getProductCategories() {
+		List<String> categories = new ArrayList<String>();
+		categories.add("Books"); 
+		categories.add("Musics"); 
+		categories.add("Movies"); 
+		return categories;
+	}
+
+}

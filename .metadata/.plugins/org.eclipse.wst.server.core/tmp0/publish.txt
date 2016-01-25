@@ -1,0 +1,4 @@
+#GlassFish 3
+#Mon Jan 25 17:54:40 GMT 2016
+org.eclipse.jst.jee.server\:Project_002_SOAP_server_testmart=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_server_testmart
+org.eclipse.jst.jee.server\:Project_002_SOAP_testmart=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_testmart

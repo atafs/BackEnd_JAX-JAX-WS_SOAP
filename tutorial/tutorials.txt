@@ -1,0 +1,11 @@
+//20 vídeos - SOAP Web Service Basics 
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39
+https://www.youtube.com/watch?v=6hqDMS-oJ9k&index=3&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39
+
+//SOAP Web Services 07 - Writing a Web Service: Code and Deploy
+https://www.youtube.com/watch?v=u5cQkVgq6jE&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=7
+
+https://www.youtube.com/watch?v=HLzM92ZnisY&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=8
+
+//SOAP Web Services 08 - Adding Input Arguments
+https://www.youtube.com/watch?v=HLzM92ZnisY&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=8 07:25

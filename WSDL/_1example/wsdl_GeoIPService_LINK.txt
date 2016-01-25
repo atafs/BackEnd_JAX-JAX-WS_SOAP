@@ -1,0 +1,2 @@
+// GeoIPService: enables you to easily look up countries by IP address / Context
+http://webservicex.com/ws/WSDetails.aspx?CATID=12&WSID=64

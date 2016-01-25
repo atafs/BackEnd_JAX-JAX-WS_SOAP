@@ -1,0 +1,15 @@
+package pt.americolib.business;
+
+import java.util.List;
+
+public class ProductServiceImpl {
+
+	public List<String> getProductCategories() {
+		//LIST
+		List<String> categories = new ArrayList<String>();
+		categories.add("Books"); 
+		categories.add("Musics"); 
+		categories.add("Movies"); 
+		return categories;
+	}
+}
