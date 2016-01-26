@@ -1,0 +1,18 @@
+package pt.americolib;
+
+public class ShopInfo {
+	
+	/** */
+	public String getShopInfo(String property) {
+		String response = "Invalid property";
+		if ("ShopName".equals(property)) {
+			response = "Test Mart";
+		}
+		else if ("Since".equals(property)) {
+			response = "since 2012";
+		}
+		return response;
+		
+	}
+
+}

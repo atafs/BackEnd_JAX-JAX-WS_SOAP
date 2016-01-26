@@ -1,0 +1,21 @@
+package pt.americolib;
+
+import javax.jws.WebService;
+
+@WebService
+public class ShopInfo {
+	
+	/** FUNCTION: return information about the shop */
+	public String getShopInfo(String property) {
+		String response = "Invalid property";
+		if ("ShopName".equals(property)) {
+			response = "Test Mart";
+		}
+		else if ("Since".equals(property)) {
+			response = "since 2012";
+		}
+		return response;
+		
+	}
+
+}

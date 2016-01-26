@@ -1,0 +1,13 @@
+package pt.americolib.model;
+
+public class Product {
+	
+	//ATTIBUTES
+	private String name;
+	private String sku;
+	private double price;
+	
+	
+
+
+}

@@ -1,0 +1,24 @@
+package pt.americolib;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+
+import pt.americolib.model.Product;
+
+public interface ProductCatalogInterface {
+
+	//METHOD (public = default @WebMethod)
+	public abstract List<String> getProductCategories();
+
+	//EXCLUDE WEB SERVICE METHOD: exclude=true
+	//	@WebMethod(exclude=true)
+	public abstract List<String> getProducts(String category);
+
+	//	@WebMethod(exclude=true)
+	public abstract boolean addProduct(String category, String product);
+
+	//METHOD: instead of String, there is a Product
+	public abstract List<Product> getProducts_v2(String category);
+
+}

@@ -10,5 +10,6 @@ https://www.youtube.com/watch?v=HLzM92ZnisY&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5
 //SOAP Web Services 08 - Adding Input Arguments
 https://www.youtube.com/watch?v=HLzM92ZnisY&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=8 07:25
 https://www.youtube.com/watch?v=E76xW1JTVXY&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=10
-https://www.youtube.com/watch?v=xq2zi_UWzUE&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=11
+https://www.youtube.com/watch?v=xq2zi_UWzUE&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&index=11 06:06
+https://www.youtube.com/watch?v=QFq4Ue_jExY&index=13&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39
 

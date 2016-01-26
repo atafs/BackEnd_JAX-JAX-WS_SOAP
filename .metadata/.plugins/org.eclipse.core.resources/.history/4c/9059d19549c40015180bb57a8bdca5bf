@@ -1,0 +1,45 @@
+package pt.americolib;
+
+import java.util.List;
+
+import javax.jws.WebService;
+
+import pt.americolib.business.ProductServiceImpl;
+import pt.americolib.interfaces.ProductCatalogInterface;
+import pt.americolib.model.Product;
+
+@WebService(
+		endpointInterface="pt.americolib.ProductCatalogInterface.java",
+		portName="TestMartCatalogPort", 
+		serviceName="ProductCatalogService")
+public class ProductCatalog implements ProductCatalogInterface {
+	
+	//ATTRIBUTES
+	ProductServiceImpl productService = new ProductServiceImpl();
+	
+	//METHOD (public = default @WebMethod)
+	@Override
+	public List<String> getProductCategories() {
+		return productService.getProductCategories();
+	}
+	
+	//EXCLUDE WEB SERVICE METHOD: exclude=true
+//	@WebMethod(exclude=true)
+	@Override
+	public List<String> getProducts(String category) {
+		return productService.getProducts(category);
+	}
+	
+//	@WebMethod(exclude=true)
+	@Override
+	public boolean addProduct(String category, String product) {
+		return productService.addProduct(category, product);
+	}
+	
+	//METHOD: instead of String, there is a Product
+	@Override
+	public List<Product> getProducts_v2(String category) {
+		return productService.getProducts_v2(category);
+	}
+
+}
