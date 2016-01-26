@@ -1,6 +1,13 @@
 package pt.americolib.model;
 
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+
 //DAO
+@XmlRootElement(name="Product")
+@XmlType(propOrder={"price", "sku", "name"})
 public class Product {
 	
 	//ATTRIBUTES
@@ -10,13 +17,15 @@ public class Product {
 	
 	//CONSTRUCTOR
 	public Product(String name, String sku, double price) {
-		super();
 		this.name = name;
 		this.sku = sku;
 		this.price = price;
 	}
 	
+	public Product() {}
+	
 	//GETTERS AND SETTERS
+	@XmlElement(name="ProductName")
 	public String getName() {
 		return name;
 	}

@@ -20,16 +20,14 @@
 
 	<h2>Web Service Endpoint Information</h2>
 	<h4>ProductCatalog</h4>
-	<p style="color:gray;">Tester: <a href="http://atafs:9090/Project_003_SOAP_server_ServiceAndContractFirst/ProductCatalogService?Tester">Web Service Tester</a>
+	<p style="color:gray;">Tester: <a href="http://atafs:9090/Project_005_SOAP_server_JAXBinding/ProductCatalogService?Tester">Web Service Tester</a></p>
 		<p style="text-indent: 2em; color:gray;">Valid values: [Books, Musics, Movies];</p>
-	</p>
-	<p style="color:gray;">WSDL: <a href="http://atafs:9090/Project_003_SOAP_server_ServiceAndContractFirst/ProductCatalogService?wsdl">View WSDL</a></p>
+	<p style="color:gray;">WSDL: <a href="http://atafs:9090/Project_005_SOAP_server_JAXBinding/ProductCatalogService?wsdl">View WSDL</a></p>
 
 	<h4>ShopInfo</h4>
-	<p style="color:gray;">Tester: <a href="http://atafs:9090/Project_004_SOAP_server_TypesAndBinding/ShopInfoService?Tester">Web Service Tester</a>
+	<p style="color:gray;">Tester: <a href="http://atafs:9090/Project_005_SOAP_server_JAXBinding/ShopInfoService?Tester">Web Service Tester</a></p>
 		<p style="text-indent: 2em; color:gray;">Valid values: [ShopName, Since];</p>
-	</p>
-	<p style="color:gray;">WSDL: <a href="http://atafs:9090/Project_004_SOAP_server_TypesAndBinding/ShopInfoService?wsdl">View WSDL</a></p>
+	<p style="color:gray;">WSDL: <a href="http://atafs:9090/Project_005_SOAP_server_JAXBinding/ShopInfoService?wsdl">View WSDL</a></p>
 
 
 </body>   

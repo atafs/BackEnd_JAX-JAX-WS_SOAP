@@ -23,7 +23,6 @@ public class ShopInfo {
 			response = "since 2012";
 		}
 		return response;
-		
 	}
 
 }
