@@ -1,0 +1,11 @@
+//Project - index.jsp
+http://localhost:9090/Project_003_SOAP_server_ServiceAndContractFirst/
+
+//WEB SERVICE
+http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService
+
+//ProductCatalogService Web Service Tester
+http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService?Tester
+
+/* ################################################# */
+
