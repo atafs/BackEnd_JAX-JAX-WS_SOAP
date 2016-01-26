@@ -1,0 +1,26 @@
+package pt.test;
+
+import javax.jws.WebMethod;
+
+import pt.test.contract.Calculator;
+
+public class CalculatorImpl implements Calculator{
+	
+	//CONSTRUCTOR
+	public CalculatorImpl() {
+		CalculatorImpl cal = new CalculatorImpl();
+	}
+	
+	//WEB SERVICE
+	@WebMethod
+	@Override
+	public int add(int a, int b) {
+		return a + b;
+	}
+
+	@WebMethod
+	@Override
+	public int multitply(int a, int b) {
+		return a * b;
+	}
+}

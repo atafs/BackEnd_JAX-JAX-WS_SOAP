@@ -1,0 +1,9 @@
+package pt.americolib.test.contract;
+
+public interface Calculator {
+	
+	//CONTRACT
+	public int add(int a, int b);
+	public int multitply(int a, int b);
+
+}

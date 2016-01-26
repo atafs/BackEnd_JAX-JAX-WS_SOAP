@@ -1,0 +1,5 @@
+package pt.americolib.test.contract;
+
+public class CalculatorImpl {
+
+}

@@ -1,0 +1,29 @@
+package pt.test;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+
+import pt.americolib.business.ProductServiceImpl;
+import pt.test.contract.Calculator;
+
+public class CalculatorImpl implements Calculator{
+	
+	//ATTRIBUTES
+	Calculator calc = new Calculator();
+	
+	@WebMethod
+	@Override
+	public int add(int a, int b) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@WebMethod
+	@Override
+	public int multitply(int a, int b) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

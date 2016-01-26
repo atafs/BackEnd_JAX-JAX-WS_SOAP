@@ -1,0 +1,31 @@
+package pt.test;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+
+import pt.americolib.business.ProductServiceImpl;
+import pt.test.business.CalculatorServiceImpl;
+import pt.test.contract.CalculatorInterface;
+
+public class Calculator {
+	//ATTRIBUTES
+	CalculatorInterface calculator = new CalculatorServiceImpl();
+	
+	//METHOD (public = default @WebMethod)
+	@WebMethod
+	public List<String> getProductCategories() {
+		return productService.getProductCategories();
+	}
+	
+	//EXCLUDE WEB SERVICE METHOD: exclude=true
+	@WebMethod(exclude=true)
+	public List<String> getProducts(String category) {
+		return productService.getProducts(category);
+	}
+	
+	@WebMethod(exclude=true)
+	public boolean addProduct(String category, String product) {
+		return productService.addProduct(category, product);
+	}
+}

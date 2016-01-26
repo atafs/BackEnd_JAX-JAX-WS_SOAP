@@ -1,0 +1,21 @@
+package pt.test;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+
+import pt.americolib.business.ProductServiceImpl;
+import pt.test.contract.Calculator;
+
+public class CalculatorImpl implements Calculator{
+	
+	//ATTRIBUTES
+	Calculator calc = new Calculator();
+	
+	//METHOD (public = default @WebMethod)
+	@WebMethod
+	public List<String> getProductCategories() {
+		return productService.getProductCategories();
+	}
+
+}

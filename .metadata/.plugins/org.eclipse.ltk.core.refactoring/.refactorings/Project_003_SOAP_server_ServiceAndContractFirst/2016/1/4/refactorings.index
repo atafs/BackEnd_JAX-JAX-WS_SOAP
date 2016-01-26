@@ -1,2 +1,10 @@
 1453805611994	Delete element
 1453806017765	Rename resource 'pages.txt'
+1453806907475	Rename package 'pt.americolib.test.contract.x'
+1453806916023	Move compilation unit
+1453806922995	Delete element
+1453806973646	Rename package 'pt.americolib.test'
+1453808298062	Delete element
+1453808306677	Move compilation unit
+1453808326976	Rename type 'Calculator'
+1453808404900	Rename type 'CalculatorImpl'
