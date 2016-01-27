@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Project_006_SOAP_server_SoapUI_WebService_Testing/src/pt/americolib/test/TestServicePublisher.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="pt.americolib.test.TestServicePublisher"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Project_006_SOAP_server_SoapUI_WebService_Testing"/>
+</launchConfiguration>

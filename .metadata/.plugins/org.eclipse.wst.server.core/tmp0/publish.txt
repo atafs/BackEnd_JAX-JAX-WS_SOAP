@@ -1,8 +1,11 @@
 #GlassFish 3
-#Tue Jan 26 17:49:49 GMT 2016
-org.eclipse.jst.jee.server\:Project_003_SOAP_server_ServiceAndContractFirst=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_003_SOAP_server_ServiceAndContractFirst
+#Wed Jan 27 15:05:52 GMT 2016
+org.eclipse.jst.jee.server\:Project_002_SOAP_testmart=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_testmart
 org.eclipse.jst.jee.server\:Project_002_SOAP_server_testmart=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_server_testmart
 org.eclipse.jst.jee.server\:Project_004_SOAP_server_TypesAndBinding=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_004_SOAP_server_TypesAndBinding
-org.eclipse.jst.jee.server\:Project_002_SOAP_testmart=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_testmart
-org.eclipse.jst.jee.server\:Project_002_SOAP_server_addingInputArgs=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_server_addingInputArgs
+org.eclipse.jst.jee.server\:Project_007_SOAP_server_deploy_googleAppEngine=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_007_SOAP_server_deploy_googleAppEngine
 org.eclipse.jst.jee.server\:Project_005_SOAP_server_JAXBinding=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_005_SOAP_server_JAXBinding
+org.eclipse.jst.jee.server\:Project_006_SOAP_server_SoapUI_Testing=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_006_SOAP_server_SoapUI_Testing
+org.eclipse.jst.jee.server\:Project_003_SOAP_server_ServiceAndContractFirst=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_003_SOAP_server_ServiceAndContractFirst
+org.eclipse.jst.jee.server\:Project_006_SOAP_server_SoapUI_WebService_Testing=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_006_SOAP_server_SoapUI_WebService_Testing
+org.eclipse.jst.jee.server\:Project_002_SOAP_server_addingInputArgs=D\:\\glassfish SERVER\\glassfish-4.1\\glassfish\\domains\\domain1\\eclipseApps\\Project_002_SOAP_server_addingInputArgs

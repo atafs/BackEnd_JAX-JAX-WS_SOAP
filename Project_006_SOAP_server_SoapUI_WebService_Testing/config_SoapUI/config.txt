@@ -1,0 +1,12 @@
+//NAME
+Project_006_SOAP_client_SoapUI_Testing_21ProductCatalog
+
+//WSDL
+http://atafs:9090/Project_006_SOAP_server_SoapUI_Testing/ProductCatalogService?wsdl
+
+//NAME
+Project_006_SOAP_client_SoapUI_Testing_2ShopInfo
+
+//WSDL
+http://atafs:9090/Project_006_SOAP_server_SoapUI_Testing/ShopInfoService?wsdl
+

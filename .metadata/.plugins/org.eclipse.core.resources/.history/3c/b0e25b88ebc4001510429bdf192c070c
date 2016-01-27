@@ -1,0 +1,18 @@
+package pt.americolib.test;
+
+import javax.xml.ws.Endpoint;
+
+import pt.americolib.webservice.ProductCatalog;
+
+public class TestServicePublisher {
+
+	//MAIN
+	public static void main(String[] args) {
+		
+		//ProductCatalogService
+		Endpoint.publish("http://localhost:1234/productcatalog", new ProductCatalog());
+		
+		//ShopInfoService
+		
+	}
+}

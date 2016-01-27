@@ -1,0 +1,9 @@
+package pt.americolib.test;
+
+public class TestServicePublisher {
+
+	//MAIN
+	public static void main(String[] args) {
+		
+	}
+}
