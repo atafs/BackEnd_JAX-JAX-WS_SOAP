@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-workspace name="Projects" soapui-version="4.0.1.1" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
-  <con:project name="Project_006_SOAP_client_SoapUI_Testing_21ProductCatalog">D:/clouds/Drive Ilimitado/BackEnd_JAX-WS_SOAP/Project_006_SOAP_server_SoapUI_Testing/config_SoapUI/src/Project-006-SOAP-client-SoapUI-Testing-21ProductCatalog-soapui-project.xml</con:project>
-  <con:project name="Project_006_SOAP_client_SoapUI_Testing_2ShopInfo">D:/clouds/Drive Ilimitado/BackEnd_JAX-WS_SOAP/Project_006_SOAP_server_SoapUI_Testing/config_SoapUI/src/Project-006-SOAP-client-SoapUI-Testing-2ShopInfo-soapui-project.xml</con:project>
+  <con:project name="ProductCatalogService?wsdl">D:/clouds/Drive Ilimitado/BackEnd_JAX-WS_SOAP/Project_006_SOAP_server_SoapUI_WebService_Testing/config_SoapUI/src/ProductCatalogService-wsdl-soapui-project.xml</con:project>
 </con:soapui-workspace>

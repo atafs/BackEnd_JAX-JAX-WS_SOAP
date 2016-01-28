@@ -1,4 +1,6 @@
 //Project - index.jsp
 http://localhost:9090/Project_003_SOAP_server_ServiceAndContractFirst/
 
+//index
+http://localhost:9090/Project_003_SOAP_server_ServiceAndContractFirst/index.jsp
 

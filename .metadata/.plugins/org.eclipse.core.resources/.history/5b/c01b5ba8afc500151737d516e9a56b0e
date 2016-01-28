@@ -1,0 +1,10 @@
+//SERVER CONSOLE
+http://localhost:4848/common/index.jsf
+
+//Tester
+http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService?Tester
+
+//wsdl
+http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService?wsdl
+/* ################################################# */
+

@@ -1,19 +1,11 @@
 //SERVER CONSOLE
 http://localhost:4848/common/index.jsf
 
-//Web Services
-http://atafs:9090/Project_002_SOAP_server_testmart/ProductCatalogService
-
-/*  Project_002_SOAP_server_testmart ############### */
-
-//Project_002_SOAP_server_testmart - index.jsp
-http://localhost:9090/Project_002_SOAP_server_addingInputArgs/
-
-//WEB SERVICE
-http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService
-
-//ProductCatalogService Web Service Tester
+//Tester
 http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService?Tester
 
-/* ################################################# */
+//wsdl
+http://atafs:9090/Project_002_SOAP_server_addingInputArgs/ProductCatalogService?wsdl
 
+//index
+http://atafs:9090/Project_002_SOAP_server_addingInputArgs/index.jsp
