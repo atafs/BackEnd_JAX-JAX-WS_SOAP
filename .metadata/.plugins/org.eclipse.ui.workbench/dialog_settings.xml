@@ -30,4 +30,20 @@
 		<item value="21" key="DIALOG_X_ORIGIN"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Americo\Documents\repository_AFFINITY\java_developer_affinityplayer\IDE_eclipse_JDK8\java_ws_soap\zip\2016_01_27_backup.zip"/>
+			<item value="C:\Users\Americo\Documents\repository_AFFINITY\java_developer_affinityplayer\IDE_eclipse_JDK8\java_ws_soap\2016-01-27_backup.zip"/>
+		</list>
+	</section>
 </section>
